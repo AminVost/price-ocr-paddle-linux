@@ -1,0 +1,103 @@
+images/rabin_001_row_01.png	- | کابل جوشکاری مسی 12 درجه یک (25) انعطاف پذیر مهک
+images/rabin_001_row_02.png	- | کابل جوشکاری مسی 14 درجه یک (35) انعطاف پذیر مهک
+images/rabin_001_row_03.png	- | کابل جوشکاری مسی 16 درجه یک (50) انعطاف پذیر مهک
+images/rabin_001_row_04.png	- | کابل جوشکاری مسی 18 درجه یک (70) انعطاف پذیر مهک
+images/rabin_001_row_05.png	- | کابل جوشکاری مسی 12 معمولی (25) انعطاف پذیر مهک
+images/rabin_001_row_06.png	- | کابل جوشکاری مسی 14 معمولی (35) انعطاف پذیر مهک
+images/rabin_001_row_07.png	- | کابل جوشکاری مسی 16 معمولی (50) انعطاف پذیر مهک
+images/rabin_001_row_08.png	- | کابل جوشکاری مسی 18 معمولی (70) انعطاف پذیر مهک
+images/rabin_002_row_01.png	R4018 | بتن کن 5 شیار 1250 وات 7 کیلویی (به همراه کیف BMC + قلم + مته)
+images/rabin_002_row_02.png	R4010 | بتن کن 800 وات 3 کیلویی (به همراه قلم + مته)
+images/rabin_002_row_03.png	R3022 | فرز آهنگری 2400 وات صنعتی
+images/rabin_002_row_04.png	R3023 | فرز سنگبری 2400 وات صنعتی
+images/rabin_002_row_05.png	R3010 | مینی فرز دسته بلند 1400 وات (دیمر دار)
+images/rabin_002_row_06.png	R3020 | مینی فرز 1100 وات (دیمر دار)
+images/rabin_002_row_07.png	R3011 | مینی فرز 900 وات (دیمر دار)
+images/rabin_002_row_08.png	R3006 | مینی فرز دسته بلند 1050 وات
+images/rabin_002_row_09.png	R3017 | مینی فرز 750 وات (کلید بغل)
+images/rabin_002_row_10.png	R1016 | دریل 13 اتومات 650 وات (به همراه کیف BMC)
+images/rabin_002_row_11.png	R1003 | دریل 13 چکشی 650 وات (طرح بوش)
+images/rabin_002_row_12.png	R1011 | دریل 10 اتومات 450 وات
+images/rabin_002_row_13.png	R8820E | دریل شارژی 20 ولت براشلس چکشی 50 نیوتن 2 باتری (به همراه کیف BMC)
+images/rabin_002_row_14.png	R8612 | دریل شارژی 12 ولت 20 نیوتن 2 باتری خشابی (به همراه کیف BMC)
+images/rabin_002_row_15.png	R8612S | دریل شارژی 12 ولت 20 نیوتن 1 باتری خشابی
+images/rabin_002_row_16.png	R2750 | کمپرسور 50 لیتری سایلنت 3360 وات (2 موتور)
+images/rabin_002_row_17.png	R2810P | کمپرسور 10 لیتری روغنی 1HP
+images/rabin_002_row_18.png	R2825P | کمپرسور 25 لیتری روغنی 2/5 HP
+images/rabin_002_row_19.png	R2850P | کمپرسور 50 لیتری روغنی 2/5 HP
+images/rabin_002_row_20.png	R2901 | کارواش 1800 وات (100 بار، سیم پیچ مس)
+images/rabin_002_row_21.png	R2902 | کارواش 2200 وات (120 بار، سیم پیچ مس)
+images/rabin_002_row_22.png	2900-A | گان فشار قوی کارواش
+images/rabin_002_row_23.png	2900-B | شلنگ 8 متری فشار قوی کارواش جنس Rubber
+images/rabin_002_row_24.png	R6120 | دم برقی 2 اینچ (سیم پیچی مسی)
+images/rabin_002_row_25.png	R6125 | دم برقی 2/5 اینچ (سیم پیچی مسی)
+images/rabin_002_row_26.png	R6130 | دم برقی 3 اینچ (سیم پیچی مسی)
+images/rabin_002_row_27.png	R6140 | دم برقی 4 اینچ (سیم پیچی مسی)
+images/rabin_002_row_28.png	R3110 | فرز مینیاتوری 130 وات 107 پارچه (به همراه کیف BMC)
+images/rabin_002_row_29.png	R3120 | فرز مینیاتوری 200 وات 194 پارچه (به همراه کیف BMC)
+images/rabin_002_row_30.png	R5140 | پیستوله برقی 700 وات (خرطومی)
+images/rabin_002_row_31.png	R5115 | پیستوله برقی 100 وات
+images/rabin_002_row_32.png	R5160 | پیستوله برقی 500 وات (خرطومی)
+images/rabin_002_row_33.png	R5020 | پیستوله برقی خرطومی 550 وات
+images/rabin_003_row_01.png	R6060 | بلوور 600 وات دیمر دار
+images/rabin_003_row_02.png	R6080 | بلوور 800 وات دیمر دار
+images/rabin_003_row_03.png	R2520 | مینی کمپرسور 3 کاره فندکی/برقی
+images/rabin_003_row_04.png	- | روغنکش مخزن بزرگ طرح ژاپن
+images/rabin_003_row_05.png	RJS-03 | خرک 3 تن (دنده‌ای پین دار)
+images/rabin_003_row_06.png	RJS-06 | خرک 6 تن (دنده‌ای پین دار)
+images/rabin_003_row_07.png	R9050 | مانومتر CO2 طرح مکسی
+images/rabin_003_row_08.png	R9060 | مانومتر اکسیژن طرح مکسی
+images/rabin_003_row_09.png	R7125 | گونیا 25 سانت طرح سندویک ضخیم و مستحکم
+images/rabin_003_row_10.png	R7130 | گونیا 30 سانت طرح سندویک ضخیم و مستحکم
+images/rabin_003_row_11.png	R7140 | گونیا 40 سانت طرح سندویک ضخیم و مستحکم
+images/rabin_003_row_12.png	R7150 | گونیا 50 سانت طرح سندویک ضخیم و مستحکم
+images/rabin_003_row_13.png	R7130A | گونیا 30 سانت آلومینیومی زرد طرح سندویک ضخیم و مستحکم
+images/rabin_003_row_14.png	R7140A | گونیا 40 سانت آلومینیومی زرد طرح سندویک ضخیم و مستحکم
+images/rabin_003_row_15.png	R7730 | تراز لیزری دو خط رابین (نور سبز)
+images/rabin_003_row_16.png	R7750 | تراز لیزری 360 درجه رابین (ریموت دار، همراه با لوازم، 16 لاین، نور سبز)
+images/rabin_003_row_17.png	R7203 | متر 3 متری طرح فیسکو
+images/rabin_003_row_18.png	R7205 | متر 5 متری طرح فیسکو
+images/rabin_003_row_19.png	R7020 | تراز 20 سانتی لند
+images/rabin_003_row_20.png	R7025 | تراز 25 سانتی لند
+images/rabin_003_row_21.png	R7060 | تراز 60 سانتی لند
+images/rabin_003_row_22.png	R2601 | تلمبه پایی تک پمپ
+images/rabin_003_row_23.png	R2603 | تلمبه پایی دو پمپ
+images/rabin_003_row_24.png	- | کابل جوشکاری مسی 12 درجه یک (25) انعطاف پذیر مهک
+images/rabin_003_row_25.png	- | کابل جوشکاری مسی 14 درجه یک (35) انعطاف پذیر مهک
+images/rabin_003_row_26.png	- | کابل جوشکاری مسی 16 درجه یک (50) انعطاف پذیر مهک
+images/rabin_003_row_27.png	- | کابل جوشکاری مسی 18 درجه یک (70) انعطاف پذیر مهک
+images/rabin_003_row_28.png	- | کابل جوشکاری مسی 12 معمولی (25) انعطاف پذیر مهک
+images/rabin_003_row_29.png	- | کابل جوشکاری مسی 14 معمولی (35) انعطاف پذیر مهک
+images/rabin_003_row_30.png	- | کابل جوشکاری مسی 16 معمولی (50) انعطاف پذیر مهک
+images/rabin_003_row_31.png	- | کابل جوشکاری مسی 18 معمولی (70) انعطاف پذیر مهک
+images/rabin_004_row_01.png	R6510 | میخکوب و منگنه کوب برقی 5 آمپر
+images/rabin_004_row_02.png	R6515 | میخکوب و منگنه کوب برقی 4 آمپر
+images/rabin_004_row_03.png	R6030 | سشوار برقی صنعتی 2000 وات (تنظیم دما 3 حالته + مجهز به کنترل دما الکترونیک)
+images/rabin_004_row_04.png	R6020 | سشوار برقی صنعتی 2000 وات (تنظیم دما 2 حالته)
+images/rabin_004_row_05.png	R3501 | چرخ سنباده 120 وات سایز 125
+images/rabin_004_row_06.png	R3502 | چرخ سنباده 250 وات سایز 150
+images/rabin_004_row_07.png	R3503 | چرخ سنباده 350 وات سایز 175
+images/rabin_004_row_08.png	R3504 | چرخ سنباده 150 وات سایز 125 (خرطومی)
+images/rabin_004_row_09.png	R5040 | اره درخت بر بنزینی تیغه 40 سانت
+images/rabin_004_row_10.png	R5045 | اره درخت بر بنزینی تیغه 45 سانت
+images/rabin_004_row_11.png	R5045P | اره درخت بر بنزینی تیغه OREGON 45 سانت (مجهز به کاربراتور WALBRO)
+images/rabin_004_row_12.png	R5050 | اره درخت بر بنزینی تیغه 50 سانت
+images/rabin_004_row_13.png	R2401 | پیستوله بادی سه تنظیم طرح ساتا سوزن 1/3 (HK827)
+images/rabin_004_row_14.png	R2401 | پیستوله بادی سه تنظیم طرح ساتا سوزن 1/8 (HK827)
+images/rabin_004_row_15.png	R2405 | سایه پاش کاسه رو سه تنظیم
+images/rabin_004_row_16.png	R2402 | پیستوله بادی کاسه رو دو تنظیم طرح آسترو سوزن 1/6 (E70)
+images/rabin_004_row_17.png	R2402 | پیستوله بادی کاسه رو دو تنظیم طرح آسترو سوزن 1/8 (E70)
+images/rabin_004_row_18.png	R2404 | پیستوله کاسه دوبل (GE70)
+images/rabin_004_row_19.png	R2410 | گازوئیل پاش (DO10)
+images/rabin_004_row_20.png	R2412 | کنیتکس پاش کاسه پلاستیکی (FR301)
+images/rabin_004_row_21.png	R2413 | کنیتکس پاش کاسه فلزی (FR300)
+images/rabin_004_row_22.png	R2420 | باد پاش پلاستیکی (DG10S1)
+images/rabin_004_row_23.png	R2421 | باد پاش فلزی (DG102)
+images/rabin_004_row_24.png	R2406 | سایه پاش کاسه بغل (K3A)
+images/rabin_004_row_25.png	R2432 | فیلتر رطوبت گیر دوقلو
+images/rabin_004_row_26.png	R2430 | فیلتر رطوبت گیر تک
+images/rabin_004_row_27.png	R2440 | درجه باد کارگاهی
+images/rabin_004_row_28.png	R2442 | درجه باد سواری
+images/rabin_004_row_29.png	R2444 | درجه باد کامیونی
+images/rabin_004_row_30.png	R2450 | شلنگ فنری 10 متری
+images/rabin_004_row_31.png	R2455 | شلنگ فنری 15 متری
